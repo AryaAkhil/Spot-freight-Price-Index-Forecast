@@ -1,5 +1,14 @@
 ## Summary
 
+### Keywords: 
+Time Series Forecasting, Spot Freight Price Index, Deep Learning, LSTM Encoder-Decoder.
+
+### Language:
+Python (Jupyter Notebook)
+
+### Major Packages: 
+pandas, Keras+Tensorflow
+
 ### Overview:
 Project aims to demonstrate use of LSTM Encoder-Decoder model for time series forecasting. One can use any dataset but for the purpose of this project, I have tried to predict spot freight prices / rates timely and accurately with LSTM Encoder-Decoder deep learning technique.
 
